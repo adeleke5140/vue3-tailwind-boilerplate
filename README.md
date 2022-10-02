@@ -1,6 +1,6 @@
 # vue3-tailwind-boilerplate
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with `Vue 3`, `tailwindcss` and `vueRouter` in Vite.
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,5 @@ yarn dev
 ```sh
 yarn build
 ```
+
+and 🎉 you are done.
